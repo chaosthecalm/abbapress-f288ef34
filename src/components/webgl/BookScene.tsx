@@ -235,17 +235,20 @@ export function BookScene({
           />
         </Environment>
 
-        {books.map((book, i) => (
-          <BookMesh
-            key={book.id}
-            book={book}
-            index={i}
-            progress={progress}
-            hovered={hovered}
-            setHovered={setHovered}
-            onFocus={onFocus}
-          />
-        ))}
+        <group position={[0, 0.72, 0]}>
+          {books.map((book, i) => (
+            <BookMesh
+              key={book.id}
+              book={book}
+              index={i}
+              progress={progress}
+              hovered={hovered}
+              setHovered={setHovered}
+              onFocus={onFocus}
+            />
+          ))}
+        </group>
+
       </Suspense>
 
       <Dust />
