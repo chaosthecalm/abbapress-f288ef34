@@ -1,14 +1,16 @@
-# Welcome to your Lovable project
+# Abbapress 
+
+"Analyze the layout of clients site , vibe audience, the books abbapress.com.br and give it a wow factor makeover keeping the personaluty brand colors logo etc... Generate a 3D immersive, scroll-triggered website code using your best model and Framer Motion. Make the hero section a cinematic 3D video. Integrate abbapress site´s book in a new awesome cinematic scroll hover way], and provide a production-ready WebGL layout. Enhance this prompt with the most optimal UI/UX structure.
 
 This project was built with [Lovable](https://lovable.dev).
 
 ## Build with Lovable
 
-Open your project in the [Lovable editor](https://lovable.dev) and keep building.
+Continue developing this project in the [Lovable editor](https://lovable.dev/projects/43721319-72e5-4316-9ae5-29ac1ae305c9).
 
 - **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: connect the project to GitHub and every change made in Lovable is committed straight to your repository.
-- **Full ownership**: this code is yours. Push to your repository and your changes sync back into Lovable, ready for your next prompt.
+- **Stay in sync**: every change made in Lovable is committed straight to this repository.
+- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
 
 ## Development
 
@@ -20,10 +22,3 @@ cd <repository-name>
 npm i
 npm run dev
 ```
-
-## Built with
-
-- TanStack Start
-- TypeScript
-- React
-- Tailwind CSS
