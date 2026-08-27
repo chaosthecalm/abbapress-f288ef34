@@ -173,7 +173,7 @@ function Rig({ progress }: { progress: Progress }) {
       3,
       dt,
     );
-    camera.lookAt(0, 0, 0);
+    camera.lookAt(0, 0.62, 0);
   });
   return null;
 }
